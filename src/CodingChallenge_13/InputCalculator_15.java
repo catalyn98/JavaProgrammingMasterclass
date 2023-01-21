@@ -3,6 +3,7 @@ package CodingChallenge_13;
 import java.util.Scanner;
 
 public class InputCalculator_15 {
+
     public static void inputThenPrintSumAndAverage() {
         int sum = 0, counter = 0;
         double avg;

@@ -1,6 +1,7 @@
 package MethodsInJava_9;
 
 public class MethodsInJava {
+
     public static int calculate(int operand1, int operand2) {
         return operand1 + operand2;
     }

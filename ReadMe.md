@@ -10,7 +10,7 @@
 </p>
 
 # Tech stack
-* [Java](https://www.java.com/en/) - is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible..
+* [Java](https://www.java.com/en/) - is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 # Prerequisites
 * JDK 17 or higher

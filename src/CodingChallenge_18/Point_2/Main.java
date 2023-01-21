@@ -1,6 +1,7 @@
 package CodingChallenge_18.Point_2;
 
 public class Main {
+
     public static void main(String[] args) {
 
         Point first = new Point(6, 5);

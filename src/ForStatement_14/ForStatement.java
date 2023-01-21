@@ -1,6 +1,7 @@
 package ForStatement_14;
 
 public class ForStatement {
+
     public static boolean isPrime(int number) {
         int counter = 0;
         for(int i = 1; i <= number; i++) {

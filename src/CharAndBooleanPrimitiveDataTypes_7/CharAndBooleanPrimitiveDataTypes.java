@@ -1,6 +1,7 @@
 package CharAndBooleanPrimitiveDataTypes_7;
 
 public class CharAndBooleanPrimitiveDataTypes {
+
     public static void main(String[] args) {
         char myChar = 'C';
         char myUnicode = '\u0044';

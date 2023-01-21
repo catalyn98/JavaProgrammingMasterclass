@@ -1,6 +1,7 @@
 package CodingChallenge_10;
 
 public class BarkingDog_4 {
+
     public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
         if(barking) {
             if ((hourOfDay < 0) || (hourOfDay > 23)) {

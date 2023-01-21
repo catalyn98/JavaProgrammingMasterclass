@@ -1,6 +1,7 @@
 package CodingChallenge_10;
 
 public class MegaBytesConverter_3 {
+
     public static void printMegaBytesAndKiloBytes(int kiloBytes){
         int megaBytes, remainingKilobytes;
         if(kiloBytes <= 0) {

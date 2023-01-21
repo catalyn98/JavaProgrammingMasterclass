@@ -1,6 +1,7 @@
 package CodingChallenge_10;
 
 public class SpeedConverter_2 {
+
     public static long toMilesPerHour(double kilometersPerHour){
         return kilometersPerHour < 0 ? -1 : Math.round(kilometersPerHour / 1.609);
     }

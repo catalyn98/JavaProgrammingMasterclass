@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class GreatestCommonDivisor_10 {
+
     public static int getGreatestCommonDivisor(int firstNumber, int secondNumber) {
         int n = 1, gcd = 1;
         if (firstNumber < 10 || secondNumber < 10)

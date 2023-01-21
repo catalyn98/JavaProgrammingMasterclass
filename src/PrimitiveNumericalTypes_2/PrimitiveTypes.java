@@ -1,6 +1,7 @@
 package PrimitiveNumericalTypes_2;
 
 public class PrimitiveTypes {
+
     public static void main(String[] args) {
         System.out.println("Min int " + Integer.MIN_VALUE);
         System.out.println("Max int " + Integer.MAX_VALUE);

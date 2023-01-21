@@ -1,6 +1,7 @@
 package PrimitiveNumericalTypesChallange_4;
 
 public class PrimitiveTypesChallenge {
+
     public static void main(String[] args) {
         byte myByte = 10;
         short myShort = 700;

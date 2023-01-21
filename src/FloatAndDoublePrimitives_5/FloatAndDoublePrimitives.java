@@ -1,6 +1,7 @@
 package FloatAndDoublePrimitives_5;
 
 public class FloatAndDoublePrimitives {
+
     public static void main(String[] args) {
         System.out.println("Min float " + Float.MIN_VALUE);
         System.out.println("Max float " + Float.MAX_VALUE);

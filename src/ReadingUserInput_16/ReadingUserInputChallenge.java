@@ -4,6 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ReadingUserInputChallenge {
+
     public static int sumOfFiveNumbers() {
         int number, sum =0, counter = 1;
         Scanner scanner = new Scanner(System.in);

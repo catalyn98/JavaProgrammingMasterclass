@@ -1,6 +1,7 @@
 package CodingChallenge_10;
 
 public class AreaCalculator_9 {
+
     public static double area(double radius) {
         double areaOfCircle;
         if (radius < 0) {

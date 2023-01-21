@@ -3,7 +3,6 @@ package Inheritance_17.Worker_5;
 public class Employee extends Worker {
     private final long employeeId;
     private final String hireDate;
-
     private static int employeeNo = 1;
 
     public Employee(String name, String birthDate, String hireDate) {

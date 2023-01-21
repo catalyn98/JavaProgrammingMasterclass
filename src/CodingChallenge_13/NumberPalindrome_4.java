@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class NumberPalindrome_4 {
+
     public static boolean isPalindrome(int number) {
         int reverse = 0, lastDigit, n = number;
 

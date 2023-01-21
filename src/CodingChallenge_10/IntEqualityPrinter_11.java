@@ -1,6 +1,7 @@
 package CodingChallenge_10;
 
 public class IntEqualityPrinter_11 {
+
     public static void printEqual(int x, int y, int z) {
         if ((x < 0) || (y < 0) || (z < 0)) {
             System.out.println("Invalid Value");

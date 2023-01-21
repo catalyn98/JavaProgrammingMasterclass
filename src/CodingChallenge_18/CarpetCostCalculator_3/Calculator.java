@@ -1,8 +1,5 @@
 package CodingChallenge_18.CarpetCostCalculator_3;
 
-import CodingChallenge_18.CarpetCostCalculator_3.Carpet;
-import CodingChallenge_18.CarpetCostCalculator_3.Floor;
-
 public class Calculator {
     private Floor floor;
     private Carpet carpet;

@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class FlourPacker_12 {
+
     public static boolean canPack(int bigCount, int smallCount, int goal) {
         bigCount *= 5;
         int sumOfKilos = bigCount +  smallCount;

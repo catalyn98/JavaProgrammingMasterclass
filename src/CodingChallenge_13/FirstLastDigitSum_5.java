@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class FirstLastDigitSum_5 {
+
     public static int sumFirstAndLastDigit(int number) {
         int lastDigit;
         if (number < 0)

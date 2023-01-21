@@ -1,6 +1,7 @@
 package SwitchStatement_12;
 
 public class SwitchStatement {
+
     public static String switchValueMethod(int switchValue) {
         return switch (switchValue) {
             case 1 -> "unu";

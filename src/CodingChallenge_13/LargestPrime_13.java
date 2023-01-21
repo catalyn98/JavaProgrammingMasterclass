@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class LargestPrime_13 {
+
     public static int getLargestPrime(int number) {
         if (number <= 1) {
             return -1;

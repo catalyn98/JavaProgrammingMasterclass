@@ -1,6 +1,7 @@
 package FloatingPointChallenge_6;
 
 public class FloatingPointChallenge {
+
     public static void main(String[] args) {
         float weight = 88.1f;
         double pounds = 0.45359237 * weight;

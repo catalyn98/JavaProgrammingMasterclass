@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class PerfectNumber_11 {
+
     public static boolean isPerfectNumber(int number) {
         int sum = 0;
 
@@ -15,5 +16,4 @@ public class PerfectNumber_11 {
             }
         return false;
     }
-
 }

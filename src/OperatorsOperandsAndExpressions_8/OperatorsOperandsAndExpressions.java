@@ -1,6 +1,7 @@
 package OperatorsOperandsAndExpressions_8;
 
 public class OperatorsOperandsAndExpressions {
+
     public static void main(String[] args) {
         int myExpression = 10 + 5;
         System.out.println(myExpression);

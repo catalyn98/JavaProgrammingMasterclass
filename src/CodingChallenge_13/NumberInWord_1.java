@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class NumberInWord_1 {
+
     public static void printNumberInWord(int number) {
         switch (number) {
             case 0 -> System.out.println("ZERO");

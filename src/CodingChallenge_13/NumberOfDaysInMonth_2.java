@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class NumberOfDaysInMonth_2 {
+
     public static boolean isLeapYear(int year) {
         if((year < 1) || (year > 9999) )
             return false;

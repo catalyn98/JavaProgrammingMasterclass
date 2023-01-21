@@ -1,6 +1,7 @@
 package CodingChallenge_13;
 
 public class SumOddRange_3 {
+
     public static boolean isOdd(int number) {
         if(number < 0)
             return false;
