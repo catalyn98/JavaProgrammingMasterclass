@@ -15,6 +15,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         int[] generatedArray = generateArray(10);
         System.out.println("Generated array " + Arrays.toString(generatedArray));
         Arrays.sort(generatedArray);

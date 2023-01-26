@@ -1,7 +1,6 @@
 package Array_24;
 
 import java.util.Arrays;
-import java.util.Objects;
 import java.util.Random;
 
 public class Main {
@@ -17,6 +16,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         int[] myIntArray = new int[10];
         myIntArray[0] = 0;
         myIntArray[1] = 10;
@@ -71,11 +71,6 @@ public class Main {
         }
 
         int[] myArray = getRandomArray(10);
-
-/*        for(int k : myArray) {
-            System.out.print(k + " ");
-        }*/
-
         System.out.println("The elements of the myArray array are " + Arrays.toString(myArray));
         System.out.println();
         Arrays.sort(myArray);
