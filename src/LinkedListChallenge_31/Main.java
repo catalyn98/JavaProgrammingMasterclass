@@ -10,12 +10,14 @@ record Place(String town, int distance) {
 public class Main {
 
     public static void menu() {
-        System.out.println("Available actions (select word or letter):\n" +
-                "\t\t(F)orward\n" +
-                "\t\t(B)ackward\n" +
-                "\t\t(L)ist Places\n" +
-                "\t\t(M)enu\n" +
-                "\t\t(Q)uit\n");
+        System.out.println("""
+                Available actions (select word or letter):
+                \t\t(F)orward
+                \t\t(B)ackward
+                \t\t(L)ist Places
+                \t\t(M)enu
+                \t\t(Q)uit
+                """);
     }
 
     public static void addPlaceToVisit(LinkedList<Place> list, Place place) {
@@ -39,6 +41,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         boolean flag = true;
         Scanner scanner = new Scanner(System.in);
         LinkedList<Place> placeToVisit = new LinkedList<>();
@@ -61,25 +64,18 @@ public class Main {
             System.out.print("Choose an option ");
             String menuOption = scanner.nextLine().toUpperCase().substring(0,1);
             switch (menuOption) {
-                case "F":
+                case "F" -> {
                     System.out.println("User wants to go forward");
                     System.out.println(iterator.next());
-                    break;
-                case "B":
+                }
+                case "B" -> {
                     System.out.println("User wants to go backward");
                     System.out.println(iterator.previous());
-                    break;
-                case "L":
-                    System.out.println("Places to visit " + placeToVisit);
-                    break;
-                case "M":
-                    menu();
-                    break;
-                case "Q":
-                    flag = false;
-                    break;
-                default:
-                    System.out.println("Invalid option");
+                }
+                case "L" -> System.out.println("Places to visit " + placeToVisit);
+                case "M" -> menu();
+                case "Q" -> flag = false;
+                default -> System.out.println("Invalid option");
             }
         }
     }

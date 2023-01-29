@@ -47,6 +47,7 @@ public class Main {
     }
 
     public static void gettingElements(LinkedList<String> list) {
+
         // ArrayList retrieval method
         System.out.println("Retrieved element = " + list.get(4));
         System.out.println("First element = " + list.getFirst());
@@ -64,6 +65,7 @@ public class Main {
     }
 
     public static void printItinerary1(LinkedList<String> list) {
+
         System.out.println("Trip starts at " + list.getFirst());
         for (int i = 0; i < list.size() - 1; i++) {
             System.out.println("--> From: " + list.get(i) + " to " + list.get(i + 1));
@@ -72,6 +74,7 @@ public class Main {
     }
 
     public static void printItinerary2(LinkedList<String> list) {
+
         System.out.println("Trip starts at " + list.getFirst());
         String previousTown = list.getFirst();
         for(String town : list) {
@@ -82,6 +85,7 @@ public class Main {
     }
 
     public static void printItinerary3(LinkedList<String> list) {
+
         System.out.println("Trip starts at " + list.getFirst());
         String previousTown = list.getFirst();
         ListIterator<String> listIterator = list.listIterator(1);
@@ -94,6 +98,7 @@ public class Main {
     }
 
     public static void testIterator(LinkedList<String> list) {
+
         // The iterator provides a safe way to remove elements, while still iterating through the list
         var iterator = list.iterator();
         while(iterator.hasNext()) {
@@ -110,6 +115,7 @@ public class Main {
     // ListIterator supports remove, add and set methods
 
     public static void testListIterator(LinkedList<String> list) {
+
         var iterator = list.listIterator();
         while(iterator.hasNext()) {
             // System.out.println(iterator.next());
@@ -123,6 +129,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         LinkedList<String> placesToVisit = new LinkedList<>();
 
         // Another way to declare a linked list
