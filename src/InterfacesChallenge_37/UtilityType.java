@@ -1,0 +1,5 @@
+package InterfacesChallenge_37;
+
+public enum UtilityType {
+    ELECTRICAL, FIBER_OPTIC, GAS, WATER
+}

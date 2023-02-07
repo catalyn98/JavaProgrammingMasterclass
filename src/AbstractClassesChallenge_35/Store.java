@@ -7,7 +7,6 @@ record OrderItem(int quantity, ProductForSale product) {
 }
 
 public class Store {
-
     static ArrayList<ProductForSale> productsList = new ArrayList<>();
 
     public static void printProducts(ArrayList<ProductForSale> productsList) {
@@ -32,7 +31,6 @@ public class Store {
     }
 
     public static void main(String[] args) {
-
 
         Smartphone smartphone1 = new Smartphone("Samsung Galaxy S22", 2899.00, "The Samsung Galaxy S22 specs are top-notch including a Snapdragon 8 Gen 1 chipset, 8GB RAM coupled with 128/256GB storage, and a 3700mAh battery with 25W charging speed");
         Smartphone smartphone2 = new Smartphone("iPhone 14", 9999.99, "iPhone 14 has the same superspeedy chip that's in iPhone 13 Pro. A15 Bionic, with a 5‑core GPU, powers all the latest features and makes graphically intense games and AR apps feel ultra fluid");
