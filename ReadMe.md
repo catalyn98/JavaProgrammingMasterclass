@@ -40,3 +40,14 @@ If the compilation is successful, it will generate a bytecode file named *YourPr
 4. Run the compiled Java program using the *java* command followed by the class name (without the *.class* extension). For example:
 `java YourProgram`
 Make sure you provide the correct class name, including the proper capitalization. The Java program will execute, and you should see the output or any error messages in the command prompt.
+
+# Credit
+These Java programs was developed based on a comprehensive tutorial on Udemy titled **"Java Programming Masterclass updated to Java 17"** by Tim Buchalka. You can find the tutorial [here](https://www.udemy.com/course/java-the-complete-java-developer-course/).
+
+### Description
+The tutorial provided a thorough introduction to Java programming, covering essential concepts and principles of Object-Oriented Programming. It covered topics such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction. Through hands-on exercises and practical examples, the tutorial offered a solid foundation in Java programming and helped me gain a clear understanding of OOP principles.
+By following the tutorial, I acquired essential Java skills, including how to write clean and efficient code, structure programs using classes and objects, and leverage the power of inheritance and polymorphism. The tutorial also delved into advanced topics such as interfaces and exception handling.
+Tim demonstrated excellent teaching skills and provided clear explanations of complex concepts. His expertise and guidance were instrumental in my Java learning journey, enabling me to confidently apply the acquired knowledge to develop these programs.
+
+### Acknowledgment
+I would like to express my gratitude to Tim for creating such an informative and engaging Java tutorial. His dedication to teaching and expertise in the subject matter greatly contributed to my understanding and proficiency in Java programming. I highly recommend this tutorial to anyone starting their journey into Java and Object-Oriented Programming.
