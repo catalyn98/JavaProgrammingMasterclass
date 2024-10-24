@@ -1,4 +1,4 @@
-package LearnJavaProgramming.exercise_10;
+package LearnJavaProgramming.exercise_12;
 
 public class Computer {
     String name;

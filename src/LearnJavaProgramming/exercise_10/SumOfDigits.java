@@ -1,4 +1,4 @@
-package LearnJavaProgramming.exercise_9;
+package LearnJavaProgramming.exercise_10;
 
 public class SumOfDigits {
     public static void main(String[] args) {

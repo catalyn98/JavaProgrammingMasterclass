@@ -1,4 +1,4 @@
-package LearnJavaProgramming.exercise_10;
+package LearnJavaProgramming.exercise_12;
 
 import java.util.ArrayList;
 import java.util.Scanner;
