@@ -1,6 +1,6 @@
 package _12.SwitchStatement;
 
-public class SwitchStatement {
+public class    SwitchStatement {
 
     public static String switchValueMethod(int switchValue) {
         return switch (switchValue) {
