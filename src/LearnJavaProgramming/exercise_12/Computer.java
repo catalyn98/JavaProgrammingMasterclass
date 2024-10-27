@@ -13,8 +13,8 @@ public class Computer {
         this.hdd = hdd;
     }
 
-//    @Override
-//    public String toString() {
-//        return "Nume: " + name + ", CPU: " + cpu + ", RAM: " + ram + "GB, HDD: " + hdd + "GB";
-//    }
+    @Override
+    public String toString() {
+        return "Nume: " + name + ", CPU: " + cpu + ", RAM: " + ram + "GB, HDD: " + hdd + "GB";
+    }
 }
