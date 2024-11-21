@@ -1,0 +1,7 @@
+Explicații:
+    - Clasă: Server este șablonul care definește atributele și metodele comune.
+    - Atribut: ipAddress, port, și status sunt atribute ale clasei.
+    - Constructor: Inițializează atributele atunci când un obiect este creat.
+    - Metodele get() și set(): Sunt folosite pentru a accesa și a modifica valorile atributelor.
+    - Modificatorii de acces: Atributele sunt private, iar metodele sunt public, ceea ce ilustrează încapsularea.
+    - Metoda toString(): Suprascrisă pentru a returna o reprezentare lizibilă a obiectului.

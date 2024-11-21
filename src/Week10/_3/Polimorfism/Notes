@@ -1,0 +1,4 @@
+Explicații:
+    - Polimorfism: Se referă la abilitatea unei metode de a se comporta diferit în funcție de context. În acest exemplu, metoda afiseazaCapacitate() este definită în clasa de bază DispozitivStocare, dar este suprascrisă în clasele derivate HDD, SSD, și FlashDrive.
+    - Runtime Polymorphism: Apelul metodei afiseazaCapacitate() este determinat la runtime, ceea ce înseamnă că Java decide ce versiune a metodei să folosească în funcție de tipul obiectului.
+    - Upcasting: Obiectele de tip HDD, SSD și FlashDrive sunt tratate ca obiecte de tip DispozitivStocare, ceea ce permite utilizarea unei referințe de tip comun pentru a apela metodele lor specifice.

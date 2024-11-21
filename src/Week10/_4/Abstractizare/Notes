@@ -1,0 +1,5 @@
+Explicații:
+    - Abstractizare: Se referă la ascunderea detaliilor de implementare și expunerea doar a funcționalității relevante. Clasa DispozitivRetea este abstractă și conține metode abstracte și metode concrete. Metoda configureazaDispozitiv() este declarată abstractă și trebuie să fie implementată de toate clasele care extind această clasă.
+    - Clasă abstractă: DispozitivRetea nu poate fi instanțiată direct; este folosită doar ca șablon pentru clasele derivate (Router și Switch).
+    - Metodă concretă: afiseazaIP() este o metodă implementată în clasa abstractă și este disponibilă tuturor claselor care extind DispozitivRetea.
+    - Implementare specifică: Fiecare clasă derivată (Router și Switch) implementează metoda configureazaDispozitiv() în mod diferit, oferind funcționalitate specifică.
