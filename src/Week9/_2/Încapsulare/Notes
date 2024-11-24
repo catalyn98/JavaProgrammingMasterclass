@@ -1,4 +1,0 @@
-Explicații:
-    - Încapsularea: Atributele url, username și parola sunt declarate private, astfel încât nu pot fi accesate direct din afara clasei. Acest lucru protejează datele și le permite să fie accesate doar prin metodele get() și set() corespunzătoare.
-    - Metode de acces: Metodele getUrl() și getUsername() permit accesul la valori, iar setUrl() și setUsername() permit modificarea acestora.
-    - Restricții: Metoda schimbaParola() include validare pentru a asigura securitatea, iar getParola() nu returnează parola reală pentru a proteja informațiile sensibile.

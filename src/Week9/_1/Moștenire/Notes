@@ -1,5 +1,0 @@
-Explicații:
-    - Clasa de bază: Dispozitiv definește atribute și metode comune tuturor dispozitivelor IT.
-    - Moștenirea: Clasele Router și Switch moștenesc clasa Dispozitiv, ceea ce înseamnă că pot folosi atributele și metodele acesteia.
-    - Constructorul super: Este folosit în clasele derivate pentru a apela constructorul clasei de bază.
-    - Suprascrierea metodei: Metoda afiseazaDetalii() este suprascrisă pentru a adăuga detalii suplimentare în clasele derivate.

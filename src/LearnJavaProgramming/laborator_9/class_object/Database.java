@@ -1,4 +1,4 @@
-package LearnJavaProgramming.laborator_9;
+package LearnJavaProgramming.laborator_9.class_object;
 
 public class Database {
     private String dbName;
