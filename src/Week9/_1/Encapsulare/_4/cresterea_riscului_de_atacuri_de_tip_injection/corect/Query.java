@@ -13,6 +13,8 @@ public class Query {
     }
 
     // însă numai adminsitratorul bazei de date va putea schimba numele
+    // notă* pentru o securitate mai bună în loc de "boolean isAdmin" o variantă mai bună era ca parametrul să fie de tipul User
+    // oricum structura codului se concentrează mai mult pe înțelegerea conceptului de încapsulare
     public String setDataBaseName(boolean isAdmin, String dataBaseName) {
         if(isAdmin) {
             this.dataBaseName = dataBaseName;

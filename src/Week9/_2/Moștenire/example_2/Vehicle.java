@@ -15,4 +15,3 @@ public class Vehicle {
         System.out.println("Brand: " + brand + ", Year: " + year);
     }
 }
-

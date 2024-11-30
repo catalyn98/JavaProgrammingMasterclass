@@ -1,6 +1,5 @@
 package Week9._1.Encapsulare._1.lipsa_controlului_asupra_datelor.corect;
 
-// Exemplu corect!!!
 public class Student {
     private int age; // Variabilă privată
 

@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         User admin = new User("admin");
         User regularUser = new User("user123");
+
         Product product = new Product();
 
         // Admin-ul poate modifica detaliile produsului

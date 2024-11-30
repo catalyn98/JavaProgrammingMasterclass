@@ -15,4 +15,3 @@ public class Car extends Vehicle {
         System.out.println("Număr de uși: " + numberOfDoors);
     }
 }
-
