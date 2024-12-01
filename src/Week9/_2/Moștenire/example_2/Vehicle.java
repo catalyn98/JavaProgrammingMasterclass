@@ -1,5 +1,7 @@
 package Week9._2.Moștenire.example_2;
 
+//Code wrote by Catalan Catalin
+
 public class Vehicle {
     private String brand;
     private int year;

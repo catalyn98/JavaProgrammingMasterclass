@@ -1,5 +1,7 @@
 package Week9.Subgrupa1721A;
 
+//Code wrote by Catalan Catalin
+
 public class Database {
     private String dbName;
     private Double dbSizeInGB;

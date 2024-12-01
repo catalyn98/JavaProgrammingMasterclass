@@ -1,5 +1,7 @@
 package Week8._2.PackagesAndDiagrameUML.UsingPackages.Server;
 
+//Code wrote by Catalan Catalin
+
 public class DatabaseServer extends Server {
     public DatabaseServer(String hostname) {
         super(hostname);

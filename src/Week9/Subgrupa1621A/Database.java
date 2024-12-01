@@ -1,5 +1,7 @@
 package Week9.Subgrupa1621A;
 
+//Code wrote by Hododi Valentin
+
 public class Database {
     private String dbName;
     private Double dbSizeInGB;

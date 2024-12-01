@@ -1,5 +1,7 @@
 package Week9._1.Encapsulare._4.cresterea_riscului_de_atacuri_de_tip_injection.gresit;
 
+//Code wrote by Catalan Catalin
+
 public class Main {
     public static void main(String[] args) {
         Query query= new Query();

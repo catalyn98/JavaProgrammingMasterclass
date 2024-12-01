@@ -1,5 +1,7 @@
 package Week8._2.PackagesAndDiagrameUML.UsingPackages.DispozitivRetea;
 
+//Code wrote by Catalan Catalin
+
 public abstract class DispozitivRetea {
     protected String ipAddress;
 

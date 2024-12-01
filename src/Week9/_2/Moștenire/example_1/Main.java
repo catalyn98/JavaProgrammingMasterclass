@@ -1,5 +1,7 @@
 package Week9._2.Moștenire.example_1;
 
+//Code wrote by Catalan Catalin
+
 // Testarea moștenirii
 public class Main {
     public static void main(String[] args) {

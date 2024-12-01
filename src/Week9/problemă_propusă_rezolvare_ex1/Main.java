@@ -1,4 +1,4 @@
-package LearnJavaProgramming.laborator_9.încapsulare;
+package Week9.problemă_propusă_rezolvare_ex1;
 
 public class Main {
     public static void main(String[] args) {

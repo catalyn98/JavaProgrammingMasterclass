@@ -1,5 +1,7 @@
 package Week8._1.POO;
 
+//Code wrote by Catalan Catalin
+
 public class Server {
     // Atribut (variabile de instanță)
     private String ipAddress;

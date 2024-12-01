@@ -1,5 +1,7 @@
 package Week8._2.PackagesAndDiagrameUML.WithoutUsingPackages;
 
+//Code wrote by Catalan Catalin
+
 public class MailServer extends Server {
     public MailServer(String hostname) {
         super(hostname);

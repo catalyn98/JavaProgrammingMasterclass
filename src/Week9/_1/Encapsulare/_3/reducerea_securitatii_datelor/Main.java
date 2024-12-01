@@ -1,5 +1,7 @@
 package Week9._1.Encapsulare._3.reducerea_securitatii_datelor;
 
+//Code wrote by Catalan Catalin
+
 public class Main {
     public static void main(String[] args) {
         User user = new User();

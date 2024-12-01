@@ -1,5 +1,7 @@
 package Week9._1.Encapsulare._4.cresterea_riscului_de_atacuri_de_tip_injection.corect;
 
+//Code wrote by Catalan Catalin
+
 public class User {
     private String username;
     private boolean isAdmin = false;

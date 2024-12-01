@@ -1,5 +1,7 @@
 package Week9._1.Encapsulare._4.cresterea_riscului_de_atacuri_de_tip_injection.corect;
 
+//Code wrote by Catalan Catalin
+
 public class Query {
     private String dataBaseName = "BankingDataBase";
     private String dataBasePassword = "rx%o*%Zu[Xp-$10z";

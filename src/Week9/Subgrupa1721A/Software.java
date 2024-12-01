@@ -1,5 +1,7 @@
 package Week9.Subgrupa1721A;
 
+//Code wrote by Catalan Catalin
+
 public class Software {
     private String name;
     private String version;

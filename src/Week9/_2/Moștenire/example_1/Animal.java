@@ -1,5 +1,7 @@
 package Week9._2.Moștenire.example_1;
 
+//Code wrote by Catalan Catalin
+
 // Clasa de bază (Părinte)
 public class Animal {
     public void eat() {

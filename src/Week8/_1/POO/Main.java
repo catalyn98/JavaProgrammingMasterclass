@@ -1,5 +1,7 @@
 package Week8._1.POO;
 
+//Code wrote by Catalan Catalin
+
 public class Main {
     public static void main(String[] args) {
         // Crearea unui obiect (instanță a clasei Server)

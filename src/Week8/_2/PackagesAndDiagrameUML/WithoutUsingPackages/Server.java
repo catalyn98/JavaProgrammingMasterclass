@@ -1,5 +1,7 @@
 package Week8._2.PackagesAndDiagrameUML.WithoutUsingPackages;
 
+//Code wrote by Catalan Catalin
+
 public abstract class Server {
     protected String hostname;
 
