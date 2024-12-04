@@ -5,7 +5,7 @@ public class Test {
         Animal pisica = new Pisica();
         pisica.sunet(); // Va afișa "Pisica miaună"
 
-        Animal câine = new Câine();
-        câine.sunet(); // Va afișa "Pisica miaună"
+        Animal caine = new Caine();
+        caine.sunet(); // Va afișa "Câinele latră"
     }
 }

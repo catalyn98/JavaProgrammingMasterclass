@@ -5,4 +5,8 @@ public class Pisica extends Animal {
     void sunet() {
         System.out.println("Pisica miaună");
     }
+
+    void toarce() {
+        System.out.println("Pisica toarce");
+    }
 }
