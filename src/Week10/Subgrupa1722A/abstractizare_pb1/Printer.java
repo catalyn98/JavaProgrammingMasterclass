@@ -1,8 +1,8 @@
-package Week10.subgrupa1721B.abstractizare_pb1;
+package Week10.Subgrupa1722A.abstractizare_pb1;
 
 public class Printer extends Device {
     @Override
-    String deviceType() {
+    public String deviceType() {
         return "Printer";
     }
 }

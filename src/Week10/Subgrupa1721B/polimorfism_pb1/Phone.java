@@ -1,4 +1,4 @@
-package Week10.subgrupa1721B.polimorfism_pb1;
+package Week10.Subgrupa1721B.polimorfism_pb1;
 
 public class Phone extends Device {
     @Override
