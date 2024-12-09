@@ -1,4 +1,4 @@
-package Week10.subgrupa1722A.polimorfism_pb1;
+package Week10.Subgrupa1722A.polimorfism_pb1;
 
 
 import java.util.ArrayList;
